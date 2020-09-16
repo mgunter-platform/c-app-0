@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mattgunter/Projects/nuc-test-project/src/hello.cpp
+iostream
+-
+hello.h
+/Users/mattgunter/Projects/nuc-test-project/src/hello.h
+
+/Users/mattgunter/Projects/nuc-test-project/src/hello.h
+

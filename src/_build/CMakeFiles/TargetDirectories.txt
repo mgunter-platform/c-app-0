@@ -1,0 +1,4 @@
+/Users/mattgunter/Projects/nuc-test-project/src/_build/CMakeFiles/rebuild_cache.dir
+/Users/mattgunter/Projects/nuc-test-project/src/_build/CMakeFiles/edit_cache.dir
+/Users/mattgunter/Projects/nuc-test-project/src/_build/CMakeFiles/greet.dir
+/Users/mattgunter/Projects/nuc-test-project/src/_build/CMakeFiles/hello.dir
